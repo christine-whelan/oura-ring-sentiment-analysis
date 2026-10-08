@@ -31,6 +31,16 @@ This project explores how NLP and machine learning can be used to:
 - Translate review data into recommendations for a next-generation product
 
 ---
+## Live Product Demo
+
+View the Oura Ring 5 concept here:
+
+https://christine-whelan.github.io/oura-ring-sentiment-analysis/oura_ring5_product_demo.html
+
+The interactive concept translates the sentiment analysis findings into a visual next-generation product roadmap, highlighting durability as the top improvement area, battery as a refinement opportunity, and app experience, comfort, and sleep tracking as strengths.
+
+---
+
 
 ## Dataset
 
@@ -258,7 +268,7 @@ The interactive concept is included in:
 - `OuraRingPreprocessing.ipynb` — text preprocessing and dataset preparation
 - `OuraRing_Sentiment Analysis.ipynb` — machine learning, topic modeling, and sentiment analysis
 - `oura_ring4_all_reviews_preprocessed.csv` — cleaned review dataset used for analysis
-- `oura_ring5_product_demo.html` — Oura Ring 5 product concept based on analysis findings
+- `oura_ring5_product_demo.html` — interactive visual concept translating the sentiment analysis findings into an Oura Ring 5 product roadmap
 - `Oura Ring Project Report.docx` — complete written project report
 - `README.md` — project documentation
 
